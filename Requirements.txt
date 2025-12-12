@@ -6,3 +6,6 @@ vibrants
 
 Payment option
 
+Send Money
+Recieve Money
+
