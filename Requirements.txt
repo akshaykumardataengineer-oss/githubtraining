@@ -3,3 +3,6 @@ My First App requirements
 Emoji
 colors
 vibrants
+
+Payment option
+
